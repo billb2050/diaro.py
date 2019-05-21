@@ -1,0 +1,6 @@
+Create RedNotebook data files from Diaro output.
+Output s/b text file yyyy-mm.txt containing entries for that month like...
+day: {text:lines of text...}
+
+for example...
+1: {text: here are comments}

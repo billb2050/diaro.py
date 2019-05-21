@@ -1,0 +1,9 @@
+*.bak
+*.pyc
+*.gz
+data/
+text/
+Diaro.txt
+diaro2.py
+DiaroToRed.py
+
